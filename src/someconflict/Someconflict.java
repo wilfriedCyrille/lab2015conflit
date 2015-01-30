@@ -17,8 +17,11 @@ public class Someconflict {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println ("we are gonna have some conflitc");
+
 	System.out.println ("bureau");
         
+
+        System.out.println(" je suis dans le projet");
     }
     
 }
